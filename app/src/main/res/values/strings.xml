@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JetpackComposeTemplate</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="to_sign_in_please_enter_your_details_below">To sign in please enter your details below</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="user_profile">User Profile</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="poll">Poll</string>
+    <string name="forum">Forum</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="unauthorised_access">Unauthorised Access</string>
+    <string name="no_internet">No Internet</string>
+</resources>
